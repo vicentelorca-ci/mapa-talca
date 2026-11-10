@@ -1,0 +1,62 @@
+cat	name	barrio	q	lat	lng	desc
+sightseeing	Plaza de Armas	Centro	Plaza de Armas de Talca	-35.4265	-71.6660	Corazón de la ciudad, rodeada de la catedral, edificios históricos y portales. Aquí se proclamó la Independencia de Chile el 12 de febrero de 1818.
+sightseeing	Catedral de Talca	Centro	Catedral de San Agustín Talca	-35.4261	-71.6671	Catedral de la diócesis, frente a la Plaza de Armas. Punto de partida natural para recorrer el centro.
+sightseeing	Monumento a la Firma de la Independencia	Centro	Firma de la Independencia de Chile Talca	-35.4259	-71.6654	Homenaje en la Plaza de Armas al acto de 1818 en que Bernardo O'Higgins firmó el acta de la Independencia en Talca.
+sightseeing	Iglesia de San Agustín	Centro	Iglesia San Agustín Talca	-35.4215	-71.6636	Templo y convento agustino, uno de los edificios religiosos más antiguos y reconocibles del centro.
+sightseeing	Iglesia de San Francisco	Centro	Iglesia San Francisco de Asís Talca	-35.4267	-71.6685	Iglesia céntrica a pasos de la Plaza de Armas.
+sightseeing	Plaza de la Victoria	Centro	Plaza de la Victoria Talca	-35.4291	-71.6564	Plaza del eje comercial de la ciudad, con la gran bandera de Chile, ideal para una pausa entre compras.
+sightseeing	Monumento a la Independencia	Centro	Monumento a la Independencia Talca	-35.4220	-71.6649	Monumento a la Independencia sobre la Avenida Bernardo O'Higgins, a pocas cuadras de la Plaza de Armas.
+sightseeing	Mirador Cerro La Virgen	Poniente	Cerro La Virgen Talca	-35.4237	-71.7032	Cerro con la imagen de la Virgen del Carmen y vista panorámica de Talca y el valle. Conviene ir de día y en grupo.
+sightseeing	Estación de Ferrocarriles	Barrio Estación	Estación de Ferrocarriles Talca	-35.4296	-71.6501	Plaza y estación de trenes en el barrio oriente del centro, con la Plaza Italia al lado. Desde aquí parten los trenes a Santiago y Chillán.
+museum	Museo O'Higginiano y de Bellas Artes	Centro	Museo O'Higginiano y de Bellas Artes de Talca	-35.4258	-71.6641	Casona colonial vinculada a Bernardo O'Higgins, con colección histórica y de artes plásticas. Es el museo más importante de la ciudad.
+museum	Museo Bomberil Benito Riquelme	Centro	Museo Bomberil Benito Riquelme Talca	-35.4288	-71.6604	Museo del cuerpo de bomberos de Talca, con material histórico de la institución.
+culture	Teatro Regional del Maule	Centro	Teatro Regional del Maule Talca	-35.4226	-71.6645	Principal teatro de la región, con programación de música, danza y teatro durante todo el año.
+culture	Centro Cultural Municipal de Talca	Centro	Centro Cultural Municipal Talca	-35.4291	-71.6653	Espacio municipal con exposiciones y actividades culturales gratuitas.
+culture	Galería de Arte Casa Central U. de Talca	Centro	Galería de Arte Universidad de Talca Casa Central	-35.4266	-71.6669	Galería de arte de la Universidad de Talca junto a la Plaza de Armas.
+culture	Centro Cultural Kuraf Werken	Poniente	Centro Cultural Kuraf Werken Talca	-35.4325	-71.6856	Centro cultural con programación de talleres y actividades; revisar su sitio antes de ir.
+culture	Biblioteca Municipal de Talca	Centro	Biblioteca Municipal Talca	-35.4256	-71.6594	Biblioteca pública del centro.
+culture	Anfiteatro Costanera	Costanera	Anfiteatro Costanera Talca	-35.4360	-71.6628	Anfiteatro al aire libre en el parque, sede de conciertos y eventos de verano.
+park	Parque Costanera	Costanera	Parque Costanera Talca	-35.4373	-71.6609	Parque a orillas del río Claro, con ciclovías y áreas verdes. Bueno para caminar o andar en bici.
+park	Parque Río Claro	Poniente	Parque Río Claro Talca	-35.4181	-71.6804	Parque junto al río Claro, con sendas y sombra. Más tranquilo que el centro.
+park	Parque Río Piduco	Oriente	Parque Río Piduco Talca	-35.4424	-71.6445	Parque en torno a la laguna y al estero Piduco, con paseos y deportes náuticos.
+park	Parque Bicentenario	Norte	Parque Bicentenario Talca	-35.4095	-71.6244	Gran parque en el sector nororiente de la ciudad.
+park	Parque Lircay	Norte	Parque Lircay Talca	-35.4039	-71.6496	Parque urbano del sector norte, cerca de la Universidad de Talca.
+park	Jardín Botánico de la Universidad de Talca	Campus Lircay	Jardín Botánico Universidad de Talca	-35.4064	-71.6300	Colección de flora nativa y exótica dentro del campus Lircay de la Universidad de Talca.
+park	Plaza Italia	Barrio Estación	Plaza Italia Talca	-35.4295	-71.6507	Plaza frente a la estación con el monumento de la colectividad italiana.
+park	Alameda de Talca	Alameda	Avenida Bernardo O'Higgins Talca	-35.4226	-71.6561	Paseo arbolado de la Avenida Bernardo O'Higgins, la gran alameda que cruza la ciudad de oriente a poniente.
+park	Plaza Arturo Prat	Oriente	Plaza Arturo Prat Talca	-35.4314	-71.6450	Plaza de barrio con monumento a Arturo Prat.
+cafe	Antu	Centro	Antu cafe Talca	-35.4258	-71.6567	Café cerca de la Plaza de Armas, buena pausa en un paseo por el centro.
+cafe	Pastelería Los Tulipanes	Centro	Pastelería Los Tulipanes Talca	-35.4259	-71.6558	Pastelería y salón de té en el centro, para algo dulce con café.
+cafe	Rossini	Centro	Rossini Café Talca	-35.4262	-71.6627	Cafetería céntrica con café de especialidad, sándwiches y repostería.
+cafe	Patio Rugendas	Centro	Patio Rugendas Talca	-35.4252	-71.6650	Patio-café a pasos de la Plaza de Armas, con mesas al aire libre.
+cafe	Equus Café Bar Restaurant	Centro	Equus Cafe Bar Restaurant Talca	-35.4272	-71.6658	Café, bar y restaurante en el centro, para cualquier hora del día.
+cafe	Marley Coffee	Centro	Marley coffee Talca	-35.4292	-71.6587	Cafetería en el eje comercial de 1 Sur.
+cafe	La Papa	Centro	La Papa cafe Talca	-35.4276	-71.6590	Cafetería céntrica de paso entre el mercado y la plaza.
+cafe	Gelatería La Espezialista	Centro	Gelateria La Espezialista Talca	-35.4254	-71.6567	Heladería artesanal en el centro.
+cafe	Helados El Chilenito	Barrio Estación	Helados El Chilenito Talca	-35.4301	-71.6522	Heladería clásica del sector de la estación.
+restaurant	Fuente Germana	Centro	Fuente Germana Talca	-35.4270	-71.6627	Fuente de soda y restaurante tradicional del centro.
+restaurant	Diagonal Cero	Centro	Diagonal Cero Talca	-35.4256	-71.6667	Restaurante frente a la Plaza de Armas.
+restaurant	Lima Rústica	Centro	Lima Rústica Talca	-35.4258	-71.6671	Cocina peruana en el centro, ceviches y platos criollos.
+restaurant	Club Unión Social	Centro	Club Unión Social Talca	-35.4283	-71.6628	Restaurante del histórico club social del centro.
+restaurant	La Buena Carne Parrilladas	Centro	La Buena Carne Parrilladas Talca	-35.4265	-71.6581	Parrilla en el centro, para carne a la chilena.
+restaurant	La Cacerola de la Abuela	Centro	La Cacerola de la Abuela Talca	-35.4269	-71.6567	Comida casera chilena en el centro.
+restaurant	El Corralero	Centro	El Corralero Talca	-35.4239	-71.6598	Restaurante de carnes y platos típicos.
+restaurant	By Barcelona	Centro	By Barcelona Talca	-35.4229	-71.6592	Restaurante con cocina de inspiración mediterránea.
+restaurant	Tren al Sur Restaurant	Sur	Tren Al Sur Restaurant Talca	-35.4376	-71.6543	Restaurante con temática ferroviaria, a unos minutos del centro.
+restaurant	Los Olivares	Poniente	Los Olivares restaurante Talca	-35.4168	-71.6833	Restaurante de campo con terraza, en el sector poniente de la ciudad.
+restaurant	Mesón de Juanito	Oriente	Mesón de Juanito Talca	-35.4303	-71.6307	Restaurante del sector oriente, cerca de Mall Plaza Maule.
+restaurant	Sabor Peruano	Centro	Sabor Peruano Talca	-35.4249	-71.6678	Comida peruana casual en el centro.
+bar	Casa Alameda	Alameda	Casa Alameda Talca	-35.4219	-71.6614	Bar en una casona sobre la Alameda.
+bar	Tatoha	Centro	Tatoha pub Talca	-35.4285	-71.6654	Pub céntrico para tragos de noche.
+bar	Loca Boca	Alameda	Loca Boca Talca	-35.4224	-71.6646	Bar cerca de la Alameda, con ambiente nocturno.
+bar	Bahía Juárez Lounge	Oriente	Bahía Juárez Lounge Talca	-35.4339	-71.6287	Lounge en el sector oriente de la ciudad.
+shop	Mercado de Talca	Centro	Mercado Central de Talca	-35.4253	-71.6590	Mercado municipal con frutas, verduras, carnes y locales de comida, ideal para probar sabores del Maule.
+shop	Mercado Estación	Barrio Estación	Mercado Estación Talca	-35.4288	-71.6499	Mercado de abastos junto a la estación de trenes.
+shop	Mall Plaza Maule	Oriente	Mall Plaza Maule Talca	-35.4324	-71.6299	Principal centro comercial de la ciudad.
+shop	Portal Centro	Centro	Portal Centro Talca	-35.4275	-71.6547	Galería comercial en pleno centro, sobre 1 Sur.
+area	Centro Histórico	Centro	Centro de Talca	-35.4265	-71.6620	Plaza de Armas, calle 1 Sur peatonal, teatro, museo y mercado en pocas cuadras. Todo se hace a pie.
+area	Barrio Estación	Barrio Estación	Barrio Estación Talca	-35.4296	-71.6501	Sector de la estación de trenes, con mercados y comercio popular.
+area	Campus Lircay	Campus Lircay	Campus Lircay Universidad de Talca	-35.4020	-71.6320	Campus de la Universidad de Talca en el norte de la ciudad, con jardín botánico y áreas verdes.
+photospot	Letras Talca	Sur	Letras Talca	-35.4522	-71.6447	Letras monumentales con el nombre de la ciudad, para la foto de recuerdo.
+photospot	Monumento a la Vendimia	Alameda	Monumento a la Vendimia Talca	-35.4229	-71.6500	Escultura sobre la Alameda que rinde homenaje a la vendimia, símbolo del valle del Maule.
+photospot	Bandera de Chile	Centro	Bandera de Chile Plaza de la Victoria Talca	-35.4290	-71.6564	Mástil con gran bandera chilena en la Plaza de la Victoria.

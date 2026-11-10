@@ -1,0 +1,612 @@
+[
+  {
+    "id": "plaza-de-armas",
+    "cat": "sightseeing",
+    "name": "Plaza de Armas",
+    "barrio": "Centro",
+    "lat": -35.426501,
+    "lng": -71.665996,
+    "desc": "Corazón de la ciudad, rodeada de la catedral, edificios históricos y portales. Aquí se proclamó la Independencia de Chile el 12 de febrero de 1818.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "catedral-de-talca",
+    "cat": "sightseeing",
+    "name": "Catedral de Talca",
+    "barrio": "Centro",
+    "lat": -35.42611,
+    "lng": -71.667074,
+    "desc": "Catedral de la diócesis, frente a la Plaza de Armas. Punto de partida natural para recorrer el centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "monumento-a-la-firma-de-la-independencia",
+    "cat": "sightseeing",
+    "name": "Monumento a la Firma de la Independencia",
+    "barrio": "Centro",
+    "lat": -35.425922,
+    "lng": -71.665438,
+    "desc": "Homenaje en la Plaza de Armas al acto de 1818 en que Bernardo O'Higgins firmó el acta de la Independencia en Talca.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "iglesia-de-san-agustin",
+    "cat": "sightseeing",
+    "name": "Iglesia de San Agustín",
+    "barrio": "Centro",
+    "lat": -35.421496,
+    "lng": -71.663637,
+    "desc": "Templo y convento agustino, uno de los edificios religiosos más antiguos y reconocibles del centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "iglesia-de-san-francisco",
+    "cat": "sightseeing",
+    "name": "Iglesia de San Francisco",
+    "barrio": "Centro",
+    "lat": -35.4267,
+    "lng": -71.6685,
+    "desc": "Iglesia céntrica a pasos de la Plaza de Armas.",
+    "src": "estimada"
+  },
+  {
+    "id": "plaza-de-la-victoria",
+    "cat": "sightseeing",
+    "name": "Plaza de la Victoria",
+    "barrio": "Centro",
+    "lat": -35.42905,
+    "lng": -71.656362,
+    "desc": "Plaza del eje comercial de la ciudad, con la gran bandera de Chile, ideal para una pausa entre compras.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "monumento-a-la-independencia",
+    "cat": "sightseeing",
+    "name": "Monumento a la Independencia",
+    "barrio": "Centro",
+    "lat": -35.421999,
+    "lng": -71.664879,
+    "desc": "Monumento a la Independencia sobre la Avenida Bernardo O'Higgins, a pocas cuadras de la Plaza de Armas.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "mirador-cerro-la-virgen",
+    "cat": "sightseeing",
+    "name": "Mirador Cerro La Virgen",
+    "barrio": "Poniente",
+    "lat": -35.423726,
+    "lng": -71.703183,
+    "desc": "Cerro con la imagen de la Virgen del Carmen y vista panorámica de Talca y el valle. Conviene ir de día y en grupo.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "estacion-de-ferrocarriles",
+    "cat": "sightseeing",
+    "name": "Estación de Ferrocarriles",
+    "barrio": "Barrio Estación",
+    "lat": -35.4296,
+    "lng": -71.6501,
+    "desc": "Plaza y estación de trenes en el barrio oriente del centro, con la Plaza Italia al lado. Desde aquí parten los trenes a Santiago y Chillán.",
+    "src": "estimada"
+  },
+  {
+    "id": "museo-o-higginiano-y-de-bellas-artes",
+    "cat": "museum",
+    "name": "Museo O'Higginiano y de Bellas Artes",
+    "barrio": "Centro",
+    "lat": -35.425821,
+    "lng": -71.664089,
+    "desc": "Casona colonial vinculada a Bernardo O'Higgins, con colección histórica y de artes plásticas. Es el museo más importante de la ciudad.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "museo-bomberil-benito-riquelme",
+    "cat": "museum",
+    "name": "Museo Bomberil Benito Riquelme",
+    "barrio": "Centro",
+    "lat": -35.428802,
+    "lng": -71.660377,
+    "desc": "Museo del cuerpo de bomberos de Talca, con material histórico de la institución.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "teatro-regional-del-maule",
+    "cat": "culture",
+    "name": "Teatro Regional del Maule",
+    "barrio": "Centro",
+    "lat": -35.422575,
+    "lng": -71.66455,
+    "desc": "Principal teatro de la región, con programación de música, danza y teatro durante todo el año.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "centro-cultural-municipal-de-talca",
+    "cat": "culture",
+    "name": "Centro Cultural Municipal de Talca",
+    "barrio": "Centro",
+    "lat": -35.429126,
+    "lng": -71.665336,
+    "desc": "Espacio municipal con exposiciones y actividades culturales gratuitas.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "galeria-de-arte-casa-central-u-de-talca",
+    "cat": "culture",
+    "name": "Galería de Arte Casa Central U. de Talca",
+    "barrio": "Centro",
+    "lat": -35.4266,
+    "lng": -71.6669,
+    "desc": "Galería de arte de la Universidad de Talca junto a la Plaza de Armas.",
+    "src": "estimada"
+  },
+  {
+    "id": "centro-cultural-kuraf-werken",
+    "cat": "culture",
+    "name": "Centro Cultural Kuraf Werken",
+    "barrio": "Poniente",
+    "lat": -35.432477,
+    "lng": -71.685585,
+    "desc": "Centro cultural con programación de talleres y actividades; revisar su sitio antes de ir.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "biblioteca-municipal-de-talca",
+    "cat": "culture",
+    "name": "Biblioteca Municipal de Talca",
+    "barrio": "Centro",
+    "lat": -35.425596,
+    "lng": -71.659386,
+    "desc": "Biblioteca pública del centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "anfiteatro-costanera",
+    "cat": "culture",
+    "name": "Anfiteatro Costanera",
+    "barrio": "Costanera",
+    "lat": -35.436015,
+    "lng": -71.662828,
+    "desc": "Anfiteatro al aire libre en el parque, sede de conciertos y eventos de verano.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "parque-costanera",
+    "cat": "park",
+    "name": "Parque Costanera",
+    "barrio": "Costanera",
+    "lat": -35.437421,
+    "lng": -71.660498,
+    "desc": "Parque a orillas del río Claro, con ciclovías y áreas verdes. Bueno para caminar o andar en bici.",
+    "src": "osm (0.04 km)"
+  },
+  {
+    "id": "parque-rio-claro",
+    "cat": "park",
+    "name": "Parque Río Claro",
+    "barrio": "Poniente",
+    "lat": -35.420408,
+    "lng": -71.677564,
+    "desc": "Parque junto al río Claro, con sendas y sombra. Más tranquilo que el centro.",
+    "src": "osm (0.36 km)"
+  },
+  {
+    "id": "parque-rio-piduco",
+    "cat": "park",
+    "name": "Parque Río Piduco",
+    "barrio": "Oriente",
+    "lat": -35.44216,
+    "lng": -71.642969,
+    "desc": "Parque en torno a la laguna y al estero Piduco, con paseos y deportes náuticos.",
+    "src": "osm (0.14 km)"
+  },
+  {
+    "id": "parque-bicentenario",
+    "cat": "park",
+    "name": "Parque Bicentenario",
+    "barrio": "Norte",
+    "lat": -35.40949,
+    "lng": -71.624422,
+    "desc": "Gran parque en el sector nororiente de la ciudad.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "parque-lircay",
+    "cat": "park",
+    "name": "Parque Lircay",
+    "barrio": "Norte",
+    "lat": -35.404167,
+    "lng": -71.649672,
+    "desc": "Parque urbano del sector norte, cerca de la Universidad de Talca.",
+    "src": "osm (0.03 km)"
+  },
+  {
+    "id": "jardin-botanico-de-la-universidad-de-talca",
+    "cat": "park",
+    "name": "Jardín Botánico de la Universidad de Talca",
+    "barrio": "Campus Lircay",
+    "lat": -35.4064,
+    "lng": -71.63,
+    "desc": "Colección de flora nativa y exótica dentro del campus Lircay de la Universidad de Talca.",
+    "src": "estimada"
+  },
+  {
+    "id": "plaza-italia",
+    "cat": "park",
+    "name": "Plaza Italia",
+    "barrio": "Barrio Estación",
+    "lat": -35.4295,
+    "lng": -71.650755,
+    "desc": "Plaza frente a la estación con el monumento de la colectividad italiana.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "alameda-de-talca",
+    "cat": "park",
+    "name": "Alameda de Talca",
+    "barrio": "Alameda",
+    "lat": -35.4226,
+    "lng": -71.6561,
+    "desc": "Paseo arbolado de la Avenida Bernardo O'Higgins, la gran alameda que cruza la ciudad de oriente a poniente.",
+    "src": "estimada (error: Cannot read properties of undefined (reading 'toFixed'))"
+  },
+  {
+    "id": "plaza-arturo-prat",
+    "cat": "park",
+    "name": "Plaza Arturo Prat",
+    "barrio": "Oriente",
+    "lat": -35.431327,
+    "lng": -71.644971,
+    "desc": "Plaza de barrio con monumento a Arturo Prat.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "antu",
+    "cat": "cafe",
+    "name": "Antu",
+    "barrio": "Centro",
+    "lat": -35.425816,
+    "lng": -71.656675,
+    "desc": "Café cerca de la Plaza de Armas, buena pausa en un paseo por el centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "pasteleria-los-tulipanes",
+    "cat": "cafe",
+    "name": "Pastelería Los Tulipanes",
+    "barrio": "Centro",
+    "lat": -35.425852,
+    "lng": -71.655783,
+    "desc": "Pastelería y salón de té en el centro, para algo dulce con café.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "rossini",
+    "cat": "cafe",
+    "name": "Rossini",
+    "barrio": "Centro",
+    "lat": -35.426178,
+    "lng": -71.662749,
+    "desc": "Cafetería céntrica con café de especialidad, sándwiches y repostería.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "patio-rugendas",
+    "cat": "cafe",
+    "name": "Patio Rugendas",
+    "barrio": "Centro",
+    "lat": -35.4252,
+    "lng": -71.665009,
+    "desc": "Patio-café a pasos de la Plaza de Armas, con mesas al aire libre.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "equus-cafe-bar-restaurant",
+    "cat": "cafe",
+    "name": "Equus Café Bar Restaurant",
+    "barrio": "Centro",
+    "lat": -35.4272,
+    "lng": -71.6658,
+    "desc": "Café, bar y restaurante en el centro, para cualquier hora del día.",
+    "src": "estimada"
+  },
+  {
+    "id": "marley-coffee",
+    "cat": "cafe",
+    "name": "Marley Coffee",
+    "barrio": "Centro",
+    "lat": -35.429163,
+    "lng": -71.658669,
+    "desc": "Cafetería en el eje comercial de 1 Sur.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "la-papa",
+    "cat": "cafe",
+    "name": "La Papa",
+    "barrio": "Centro",
+    "lat": -35.427607,
+    "lng": -71.659017,
+    "desc": "Cafetería céntrica de paso entre el mercado y la plaza.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "gelateria-la-espezialista",
+    "cat": "cafe",
+    "name": "Gelatería La Espezialista",
+    "barrio": "Centro",
+    "lat": -35.425419,
+    "lng": -71.65667,
+    "desc": "Heladería artesanal en el centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "helados-el-chilenito",
+    "cat": "cafe",
+    "name": "Helados El Chilenito",
+    "barrio": "Barrio Estación",
+    "lat": -35.430065,
+    "lng": -71.652199,
+    "desc": "Heladería clásica del sector de la estación.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "fuente-germana",
+    "cat": "restaurant",
+    "name": "Fuente Germana",
+    "barrio": "Centro",
+    "lat": -35.427029,
+    "lng": -71.662724,
+    "desc": "Fuente de soda y restaurante tradicional del centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "diagonal-cero",
+    "cat": "restaurant",
+    "name": "Diagonal Cero",
+    "barrio": "Centro",
+    "lat": -35.425593,
+    "lng": -71.666709,
+    "desc": "Restaurante frente a la Plaza de Armas.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "lima-rustica",
+    "cat": "restaurant",
+    "name": "Lima Rústica",
+    "barrio": "Centro",
+    "lat": -35.425787,
+    "lng": -71.667063,
+    "desc": "Cocina peruana en el centro, ceviches y platos criollos.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "club-union-social",
+    "cat": "restaurant",
+    "name": "Club Unión Social",
+    "barrio": "Centro",
+    "lat": -35.428265,
+    "lng": -71.662766,
+    "desc": "Restaurante del histórico club social del centro.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "la-buena-carne-parrilladas",
+    "cat": "restaurant",
+    "name": "La Buena Carne Parrilladas",
+    "barrio": "Centro",
+    "lat": -35.426464,
+    "lng": -71.658096,
+    "desc": "Parrilla en el centro, para carne a la chilena.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "la-cacerola-de-la-abuela",
+    "cat": "restaurant",
+    "name": "La Cacerola de la Abuela",
+    "barrio": "Centro",
+    "lat": -35.426907,
+    "lng": -71.656675,
+    "desc": "Comida casera chilena en el centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "el-corralero",
+    "cat": "restaurant",
+    "name": "El Corralero",
+    "barrio": "Centro",
+    "lat": -35.423888,
+    "lng": -71.659751,
+    "desc": "Restaurante de carnes y platos típicos.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "by-barcelona",
+    "cat": "restaurant",
+    "name": "By Barcelona",
+    "barrio": "Centro",
+    "lat": -35.422878,
+    "lng": -71.659235,
+    "desc": "Restaurante con cocina de inspiración mediterránea.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "tren-al-sur-restaurant",
+    "cat": "restaurant",
+    "name": "Tren al Sur Restaurant",
+    "barrio": "Sur",
+    "lat": -35.437621,
+    "lng": -71.654305,
+    "desc": "Restaurante con temática ferroviaria, a unos minutos del centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "los-olivares",
+    "cat": "restaurant",
+    "name": "Los Olivares",
+    "barrio": "Poniente",
+    "lat": -35.416786,
+    "lng": -71.683302,
+    "desc": "Restaurante de campo con terraza, en el sector poniente de la ciudad.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "meson-de-juanito",
+    "cat": "restaurant",
+    "name": "Mesón de Juanito",
+    "barrio": "Oriente",
+    "lat": -35.430354,
+    "lng": -71.630717,
+    "desc": "Restaurante del sector oriente, cerca de Mall Plaza Maule.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "sabor-peruano",
+    "cat": "restaurant",
+    "name": "Sabor Peruano",
+    "barrio": "Centro",
+    "lat": -35.424856,
+    "lng": -71.66781,
+    "desc": "Comida peruana casual en el centro.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "casa-alameda",
+    "cat": "bar",
+    "name": "Casa Alameda",
+    "barrio": "Alameda",
+    "lat": -35.421873,
+    "lng": -71.661364,
+    "desc": "Bar en una casona sobre la Alameda.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "tatoha",
+    "cat": "bar",
+    "name": "Tatoha",
+    "barrio": "Centro",
+    "lat": -35.42849,
+    "lng": -71.665369,
+    "desc": "Pub céntrico para tragos de noche.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "loca-boca",
+    "cat": "bar",
+    "name": "Loca Boca",
+    "barrio": "Alameda",
+    "lat": -35.422407,
+    "lng": -71.664594,
+    "desc": "Bar cerca de la Alameda, con ambiente nocturno.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "bahia-juarez-lounge",
+    "cat": "bar",
+    "name": "Bahía Juárez Lounge",
+    "barrio": "Oriente",
+    "lat": -35.433881,
+    "lng": -71.628669,
+    "desc": "Lounge en el sector oriente de la ciudad.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "mercado-de-talca",
+    "cat": "shop",
+    "name": "Mercado de Talca",
+    "barrio": "Centro",
+    "lat": -35.426995,
+    "lng": -71.660489,
+    "desc": "Mercado municipal con frutas, verduras, carnes y locales de comida, ideal para probar sabores del Maule.",
+    "src": "osm (0.23 km)"
+  },
+  {
+    "id": "mercado-estacion",
+    "cat": "shop",
+    "name": "Mercado Estación",
+    "barrio": "Barrio Estación",
+    "lat": -35.428725,
+    "lng": -71.650183,
+    "desc": "Mercado de abastos junto a la estación de trenes.",
+    "src": "osm (0.03 km)"
+  },
+  {
+    "id": "mall-plaza-maule",
+    "cat": "shop",
+    "name": "Mall Plaza Maule",
+    "barrio": "Oriente",
+    "lat": -35.432117,
+    "lng": -71.630635,
+    "desc": "Principal centro comercial de la ciudad.",
+    "src": "osm (0.07 km)"
+  },
+  {
+    "id": "portal-centro",
+    "cat": "shop",
+    "name": "Portal Centro",
+    "barrio": "Centro",
+    "lat": -35.427338,
+    "lng": -71.654813,
+    "desc": "Galería comercial en pleno centro, sobre 1 Sur.",
+    "src": "osm (0.02 km)"
+  },
+  {
+    "id": "centro-historico",
+    "cat": "area",
+    "name": "Centro Histórico",
+    "barrio": "Centro",
+    "lat": -35.4265,
+    "lng": -71.662,
+    "desc": "Plaza de Armas, calle 1 Sur peatonal, teatro, museo y mercado en pocas cuadras. Todo se hace a pie.",
+    "src": "estimada (error: Cannot read properties of undefined (reading 'toFixed'))"
+  },
+  {
+    "id": "barrio-estacion",
+    "cat": "area",
+    "name": "Barrio Estación",
+    "barrio": "Barrio Estación",
+    "lat": -35.4296,
+    "lng": -71.6501,
+    "desc": "Sector de la estación de trenes, con mercados y comercio popular.",
+    "src": "estimada"
+  },
+  {
+    "id": "campus-lircay",
+    "cat": "area",
+    "name": "Campus Lircay",
+    "barrio": "Campus Lircay",
+    "lat": -35.402,
+    "lng": -71.632,
+    "desc": "Campus de la Universidad de Talca en el norte de la ciudad, con jardín botánico y áreas verdes.",
+    "src": "estimada"
+  },
+  {
+    "id": "letras-talca",
+    "cat": "photospot",
+    "name": "Letras Talca",
+    "barrio": "Sur",
+    "lat": -35.452202,
+    "lng": -71.644726,
+    "desc": "Letras monumentales con el nombre de la ciudad, para la foto de recuerdo.",
+    "src": "osm (0.00 km)"
+  },
+  {
+    "id": "monumento-a-la-vendimia",
+    "cat": "photospot",
+    "name": "Monumento a la Vendimia",
+    "barrio": "Alameda",
+    "lat": -35.422946,
+    "lng": -71.65005,
+    "desc": "Escultura sobre la Alameda que rinde homenaje a la vendimia, símbolo del valle del Maule.",
+    "src": "osm (0.01 km)"
+  },
+  {
+    "id": "bandera-de-chile",
+    "cat": "photospot",
+    "name": "Bandera de Chile",
+    "barrio": "Centro",
+    "lat": -35.429,
+    "lng": -71.6564,
+    "desc": "Mástil con gran bandera chilena en la Plaza de la Victoria.",
+    "src": "estimada"
+  }
+]
